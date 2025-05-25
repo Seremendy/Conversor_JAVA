@@ -1,6 +1,6 @@
 # Conversor de Moedas em Java
 
-Projeto em Java puro que utiliza a **ExchangeRate API** para converter moedas em tempo real via terminal. Desenvolvido com foco em aprendizado prático.
+Projeto em Java puro que utiliza a **ExchangeRate API** para converter moedas em tempo real via terminal.
 
 ## Aprendizados
 
