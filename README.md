@@ -4,7 +4,7 @@ Projeto em Java puro que utiliza a **ExchangeRate API** para converter moedas em
 
 ## Aprendizados
 
-- Estrutura de classes (`Main`, `ConversorDeMoeda`)
+- Estrutura de classes (`Principal`, `ConversorDeMoeda`)
 - Requisições HTTP com `HttpURLConnection`
 - Leitura de JSON com **Gson**
 - Uso de `Map<Integer, String[]>` para opções de menu
