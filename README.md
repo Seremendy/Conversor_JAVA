@@ -12,12 +12,6 @@ Projeto em Java puro que utiliza a **ExchangeRate API** para converter moedas em
 - Laço principal com `while (true)`, `break` e `continue`
 - Arredondamento com `Math.round(...) / 100.0`
 
-## Dificuldades superadas
-
-- Erros de compilação por falta de `return`
-- Tratamento de entradas inválidas (como letras no menu)
-- Substituição do `switch` por código mais limpo com `Map`
-
 ## Tecnologias
 
 - Java 17+
